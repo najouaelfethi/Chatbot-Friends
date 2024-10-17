@@ -3,7 +3,7 @@
 
 # Description
 Joey Tribbiani is our favorite character in the F.R.I.E.N.D.S sitcom, and just like Joey, this project brings a fun and engaging experience. <br>
-We fine-tuned the model using Dialo-GPT, achieving a perplexity of 9.5458, and implemented it with the Transformers library for seamless functionality. The chatbot is deployed on Telegram, offering efficient, user-friendly interactions that reflect Joey's simplicity, humor, and loyalty.
+We fine-tuned the model using Dialo-GPT, achieving a perplexity of 6.8822, and implemented it with the Transformers library for seamless functionality. The chatbot is deployed on Telegram, offering efficient, user-friendly interactions that reflect Joey's simplicity, humor, and loyalty.
 
 # DEMO
 Here are screenshots from our chat with the Joey chatbot during testing.
